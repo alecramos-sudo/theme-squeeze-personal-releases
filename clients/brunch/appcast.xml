@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Theme Squeeze for Brunch</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 22 Sep 2026 18:02:52 +1200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Theme Squeeze for Brunch 0.1.0</p>
+<ul>
+  <li>Adds a Brunch edition with its own app identity, navy-and-paper branding, installer, local workspace, and signed update feed.</li>
+  <li>Includes a starter map generated from the current Brunch theme: 693 detected media slots across 43 theme and template groups.</li>
+  <li>Ships reviewed desktop and mobile homepage hero recipes; every other detected slot stays marked for review until its art direction is approved.</li>
+  <li>Keeps all media processing local and preserves the original files.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-personal-releases/releases/download/brunch-build-1/Theme-Squeeze-Brunch-1.zip" length="5340661" type="application/octet-stream" sparkle:edSignature="3tcDa7jc7yNquykivvc1RxXYIyfDKEQD+rcEuJRKbHJx13ybTNsQCVLLWKMUqmQN14EypwiVLJ/d+V6m3THuBQ=="/>
+        </item>
+    </channel>
+</rss>

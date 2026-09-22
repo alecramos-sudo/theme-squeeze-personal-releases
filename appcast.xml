@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Theme Squeeze Personal</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 22 Sep 2026 18:02:52 +1200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Theme Squeeze 0.1.0</p>
+<ul>
+  <li>Introduces the standalone Theme Squeeze edition with a separate app identity, local data namespace, graphite-and-citrus icon, and neutral installer.</li>
+  <li>Includes Media, Theme / web, Email, Ads, and Social workspaces with batch compression, quality comparison, crop tools, and editable delivery recipes.</li>
+  <li>Keeps media processing local, preserves originals, and adds an independent signed update feed for the Personal edition.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/alecramos-sudo/theme-squeeze-personal-releases/releases/download/personal-build-1/Theme-Squeeze-Personal-1.zip" length="5933484" type="application/octet-stream" sparkle:edSignature="OslUB0I8WbgU6095hikB/8Wh/ybzETf3mM5hHGPsCdnoL10lOo0IOwvn9h8vXWanG651O7dJV6vXf9rrAQK8Bg=="/>
+        </item>
+    </channel>
+</rss>
